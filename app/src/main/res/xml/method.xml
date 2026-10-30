@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.ma.keyboard.MainActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+    <subtype
+        android:label="@string/subtype_fa"
+        android:imeSubtypeLocale="fa_IR"
+        android:languageTag="fa-IR"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/subtype_en"
+        android:imeSubtypeLocale="en_US"
+        android:languageTag="en-US"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/subtype_ar"
+        android:imeSubtypeLocale="ar"
+        android:languageTag="ar"
+        android:imeSubtypeMode="keyboard" />
+</input-method>

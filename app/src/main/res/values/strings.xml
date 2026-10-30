@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAKeyboard</string>
+    <string name="ime_name">MAKeyboard</string>
+    <string name="subtype_fa">فارسی</string>
+    <string name="subtype_en">English</string>
+    <string name="subtype_ar">العربية</string>
+</resources>
